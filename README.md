@@ -1,2 +1,3 @@
-# auth-graphql-starter
-Starter project from a GraphQL course on Udemy.com - Section 3!
+#React GraphQL Authentication
+
+This application is a sample application that uses GraphQL to handle authentication with a React front end to generate the forms.
