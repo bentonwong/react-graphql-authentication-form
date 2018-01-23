@@ -12,7 +12,7 @@ export default (WrappedComponent) => {
     }
 
     render() {
-      return <WrappedComponent {...this.props} />
+      return <WrappedComponent {...this.props} />;
     }
   }
 
